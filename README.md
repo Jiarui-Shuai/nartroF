@@ -20,7 +20,7 @@ make all
 ## 怎么用
 
 1. **编译** 见上文
-2. **运行** 运行 `bin/natroF` 进入 REPL
+2. **运行** 运行 `bin/nartroF` 进入 REPL
 
 ### 语法教程
 
